@@ -1,0 +1,43 @@
+body {
+    background-color:#D2CBD8;
+}
+
+
+h1 {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+
+#quoteDisplay {
+    font-family: 'Satisfy', cursive;
+    font-size: 35px;
+    text-align: center;
+    padding: 20px;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    color: white;
+    background-color: blue;
+}
+
+#quote {
+    height: 35px;
+    width: 125px;
+    background-color: red;
+    box-shadow: 5px 5px 5px #888888;
+    
+}
+
+#twitter {
+    height: 35px;
+    width: 125px;
+    background-color: red;
+    box-shadow: 5px 5px 5px #888888;
+    
+}
+
+#tweet {
+   text-decoration: none; 
+}
